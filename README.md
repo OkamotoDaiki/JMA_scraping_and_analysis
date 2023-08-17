@@ -14,7 +14,7 @@ xml_scraper.pyを実行すると、次のようなcsvデータを取得できる
 
 またある時間内に火山噴火が発生する確率はAnalysisにあるスクリプトで実行できる。
 例えば、1分間に火山噴火が発生する確率～60分間に火山噴火が発生する確率は次のようなグラフになる。
-(ここにグラフ)
+![image](https://github.com/OkamotoDaiki/JMA_scraping_and_analysis/assets/49944765/1de31399-d9ee-4c2b-bacd-1c14bac754ca)
 
 # Feature
 現段階ではAnalysisでは次のようなことができる。
