@@ -1,0 +1,11 @@
+{
+    "output_fpath": "eruption_XML/",
+    "init_page_num": 1,
+    "page_num": 1,
+    "start_count": 1,
+    "_random_time_min": 1,
+    "_random_time_max": 10,
+    "url": "http://agora.ex.nii.ac.jp/cgi-bin/cps/report_list.pl?title=%E7%81%AB%E5%B1%B1%E5%90%8D%E3%80%80%E6%A1%9C%E5%B3%B6%E3%80%80%E5%99%B4%E7%81%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%81%AB%E5%B1%B1%E8%A6%B3%E6%B8%AC%E5%A0%B1&page=",
+    "volcano_eruption_id": "id=",
+    "mode": "auto"
+}

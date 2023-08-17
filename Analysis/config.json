@@ -1,0 +1,9 @@
+{
+    "input_fpath": "./input/eruption_data.csv",
+    "output_image_fpath": "./result/output.png",
+    "output_csv_fpath": "./result/output.csv",
+    "delta_t_min": 60,
+    "delta_t_max": 60,
+    "init_time": "2012-12-10 00:00:00",
+    "end_time": "2023-04-18 00:00:00"
+}

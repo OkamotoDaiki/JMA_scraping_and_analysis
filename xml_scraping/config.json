@@ -1,0 +1,4 @@
+{
+    "input_fpath": "./input/eruption_XML/*.xml",
+    "output_fpath": "./result/eruption_data.csv"
+}
